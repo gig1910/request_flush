@@ -1,5 +1,4 @@
 import dotenv from 'dotenv';
-import * as logger from "./logger.mjs";
 
 dotenv.config();
 
